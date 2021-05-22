@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="capa.png" width="700px" />
+<img src="https://www.canva.com/design/DAEfOgTVr3g/view" alt="capa">
 
 </div>
 
