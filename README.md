@@ -1,16 +1,45 @@
-### Hi there 👋
+<span align="center">
 
-<!--
-**camilacassimiro90/camilacassimiro90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá seja bem-vindo(a)!</h2>
 
-Here are some ideas to get you started:
+</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<img src="capa.png" width="700px" />
+
+</div>
+
+
+<br>
+<p align="center">
+  Sou <strong>Estudante de programação</strong>. Tenho <strong>Certificação em Java, UML e SQL</strong> Atualmente aprendendo a programar Front-End, nas linguagens <strong>HTML5, CSS3 e Javascript.</strong><br/>
+  Trabalhando em <strong>projetos próprios</strong> para treinar conhecimentos e ganhar experiência.
+
+</p>
+
+<p align="center">
+  📚 Habilidades: <strong>Java, UML, SQL, GitHub.</strong>
+</p>
+
+<p align="center">
+  💻  Estudando: <strong>HTML 5, CSS3 e Javascript.</strong>
+</p>
+
+<p align="center">
+  💌 Envie uma mensagem: ⤵️
+</p>
+
+<p align="center">
+  
+  
+  <a href="https://www.linkedin.com/in/camila-cassimiro-5b851289/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camila-cassimiro-5b851289/" /></a>
+</p>  
+
+## ⭐ GitHub Stats
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=camilacassimiro90&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=camilacassimiro90&show=css,java,html,javascript&theme=tokyonight">
+</p>
