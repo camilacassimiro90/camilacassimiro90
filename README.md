@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  💻  Estudando: <strong>HTML 5, CSS3 e Javascript.</strong>
+ 👩‍💻 Estudando: <strong>HTML 5, CSS3 e Javascript.</strong>
 </p>
 
 <p align="center">
@@ -38,9 +38,17 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camila-cassimiro-5b851289/" /></a>
 </p>  
 
+## 💻 Technologies & Tools
+
+<p align="center">
+  
+<img src="https://img.shields.io/badge/-JAVA-CB3837?style=flat-square&logo=java&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
+
 ## ⭐ GitHub Stats
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=camilacassimiro90&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=camilacassimiro90&show=css,java,html,javascript&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=camilacassimiro90&show=css,java,html,javascript,sql&theme=tokyonight">
 </p>
