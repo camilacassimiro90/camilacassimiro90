@@ -1,7 +1,7 @@
 ![capa](https://user-images.githubusercontent.com/79873793/119242093-a884d000-bb31-11eb-84ce-37359f011794.png)
 <span align="center">
 
-## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá seja bem-vindo(a)!</h2>
+<h2 align="center"><img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá seja bem-vindo(a)!</h2>
 
 </span>
 
