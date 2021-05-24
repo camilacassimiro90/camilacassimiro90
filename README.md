@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
- 👩‍💻 Estudando: <strong>HTML 5, CSS3 e Javascript.</strong>
+  👩🏻‍💻 Estudando: <strong>HTML 5, CSS3 e Javascript.</strong>
 </p>
 
 <p align="center">
