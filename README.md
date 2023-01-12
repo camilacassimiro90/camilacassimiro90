@@ -60,3 +60,5 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=camilacassimiro90&show=css,java,html,javascript,sql&theme=tokyonight">
 </p>
  -->
+ 
+![Snake animation](https://github.com/camilacassimiro90/camilacassimiro90/blob/output/github-contribution-grid-snake.svg)
