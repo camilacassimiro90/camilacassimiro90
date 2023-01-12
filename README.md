@@ -14,20 +14,15 @@
 
 <br>
 <p align="center">
-  Sou <strong>Estudante de programação</strong>. Tenho <strong>Certificação em Java, UML e SQL</strong> pela escola SOS Tecnologia e Educação. <br>Atualmente    cursando o programa de Formação DEVinHouse pelo Senai em parceria com a empresa NDD Tech, com foco em Full Stack.<br/>
+  Sou <strong>Estudante de programação</strong>. Tenho <strong>Certificação em Java, UML e SQL</strong> pela escola SOS Tecnologia e Educação e pelo programa de Formação DEVinHouse pelo Senai em parceria com a empresa NDD Tech, com foco em Full Stack.<br/>
   Todas as semanas são commitados aqui exercícios propostos pelo DEVinHouse, onde posso mostrar minha evolução.<br>
   Para saber mais sobre a formação: <a href="https://devinhouse.tech/">https://devinhouse.tech/</a><br>
  </p>
 
 
  
-  ## 📚 Habilidades: <strong>HTML 5, CSS3, UML, GitHub, Git, Trello, Kanban.</strong>
+  ## 📚 Habilidades: <strong>HTML 5, CSS3, UML, GitHub, Git, Trello, Kanban, SCSS, Bootstrap, Javascript, TypeScript, Angular, Scrum, C#, .net Core, Cloud, Testes, SQL e Clean Code.</strong>
   
-  
-  ## 👩🏻‍💻 Estudando: <strong>SCSS, Bootstrap, Javascript, TypeScript, Angular, Scrum, C#, .net Core, Cloud, Testes, SQL e Clean Code.</strong>
-
-
-
 
 <p align="center">
   💌 Envie uma mensagem: ⤵️
