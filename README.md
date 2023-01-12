@@ -52,13 +52,5 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" height="25">
   
-  
-<!-- ## ⭐ GitHub Stats -->
-
-<!-- <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=camilacassimiro90&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=camilacassimiro90&show=css,java,html,javascript,sql&theme=tokyonight">
-</p>
- -->
  
 ![Snake animation](https://github.com/camilacassimiro90/camilacassimiro90/blob/output/github-contribution-grid-snake.svg)
