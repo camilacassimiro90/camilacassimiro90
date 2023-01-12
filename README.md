@@ -6,11 +6,7 @@
 </span>
 
 <div align="center">
-
-
-
 </div>
-
 
 <br>
 <p align="center">
@@ -18,7 +14,6 @@
   Todas as semanas são commitados aqui exercícios propostos pelo DEVinHouse, onde posso mostrar minha evolução.<br>
   Para saber mais sobre a formação: <a href="https://devinhouse.tech/">https://devinhouse.tech/</a><br>
  </p>
-
 
  
   ## 📚 Habilidades: <strong>HTML 5, CSS3, UML, GitHub, Git, Trello, Kanban, SCSS, Bootstrap, Javascript, TypeScript, Angular, Scrum, C#, .net Core, Cloud, Testes, SQL e Clean Code.</strong>
@@ -28,8 +23,7 @@
   💌 Envie uma mensagem: ⤵️
 </p>
 
-<p align="center">
-  
+<p align="center">  
   
   <a href="https://www.linkedin.com/in/camilacassimiro" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camila-cassimiro-5b851289/"/></a>
@@ -48,11 +42,14 @@
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
 <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-Bootstrap?style=flat-square&logo=bootstrap&logoColor=white" height="25" width="50"/>
+  
 
 
-## ⭐ GitHub Stats
+<!-- ## ⭐ GitHub Stats -->
 
-<p align = "center">
+<!-- <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=camilacassimiro90&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=camilacassimiro90&show=css,java,html,javascript,sql&theme=tokyonight">
 </p>
+ -->
